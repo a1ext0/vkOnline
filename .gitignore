@@ -1,0 +1,7 @@
+*node_modules
+*.lock
+*nohup.out
+dist/
+*.log
+secret.ts
+.DS_Store
