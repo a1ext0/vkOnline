@@ -1,5 +1,5 @@
 class Counter {
-  i = 5 * 60 * 999;
+  i = 5 * 60 * 900;
   interval: NodeJS.Timeout;
   executor: Function;
   constructor(fun: Function, i?: number) {
